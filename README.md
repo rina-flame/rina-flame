@@ -2,17 +2,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rina&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20from%20Hunza&descAlignY=50&descSize=15&animation=twinkling" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6CE4F7&center=true&vCenter=true&random=false&width=435&lines=Building+modern+web+applications;JavaScript+%7C+TypeScript+%7C+React;Node.js+%7C+Laravel+%7C+MongoDB" alt="Typing SVG" />
-</div>
 
 ## 💫 About Me
 
 - 🔭 I'm currently studying **Computer Science**
-- 🌱 I'm learning **Cloud Architecture & DevOps**
-- 💬 Ask me about **JavaScript, React, Node.js, and Full-Stack Development**
+- 🌱 I'm intrested in learning  **Internet of things and AI**
+- 💬 Ask me about **HTML, CSS, JS, writing, Content creation and web Development**
 - 🏡 From the beautiful valleys of **Hunza, Pakistan**
-- ⚡ Fun fact: **I am a rapper as well **
+- ⚡ Fun fact: **I am a rapper and i love song writing, you can check out my songs on yt**
 
 ## 🚀 Technologies & Tools
 
@@ -35,12 +32,12 @@
   <h3>🗄️ Databases & Cloud</h3>
 
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
   
   <h3>🔧 DevOps & Tools</h3>
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+ 
  
 </div>
 
