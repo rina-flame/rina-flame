@@ -7,9 +7,9 @@
 
 - 🔭 I'm currently studying **Computer Science**
 - 🌱 I'm intrested in learning  **Internet of things and AI**
-- 💬 Ask me about **HTML, CSS, JS, writing, Content creation and web Development**
-- 🏡 From the beautiful valleys of **Hunza, Pakistan**
-- ⚡ Fun fact: **I am a rapper and i love song writing, you can check out my songs on yt**
+- 💬 **HTML, CSS, JS, writing, Content creation and web Development**
+- 🏡 From the beautiful valley of **Hunza, Pakistan**
+- ⚡ Fun fact: **I love rapping and song writing, you can check out my songs on yt!!!**
 
 ## 🚀 Technologies & Tools
 
